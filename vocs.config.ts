@@ -8,5 +8,9 @@ export default defineConfig({
       text: 'The Stop Cop City Template',
       link: '/',
     },
+    {
+      text: 'What is a Pod?',
+      link: '/pods',
+    },
   ],
 })
