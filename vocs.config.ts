@@ -1,16 +1,12 @@
 import { defineConfig } from 'vocs'
 
 export default defineConfig({
-  title: 'Docs',
+  title: 'Stop Cop Nation',
   iconUrl: '/favicon.ico',
   sidebar: [
     {
-      text: 'Home Page',
+      text: 'The Stop Cop City Template',
       link: '/',
-    },
-    {
-      text: 'Example',
-      link: '/example',
     },
   ],
 })
