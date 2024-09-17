@@ -12,5 +12,9 @@ export default defineConfig({
       text: 'What is a Pod?',
       link: '/pods',
     },
+    {
+      text: 'Backup Site',
+      link: '/backup',
+    },
   ],
 })
